@@ -10,7 +10,9 @@ qq空间删除的内容是你的说说，而“与我相关”部分的内容没
 2. 按F12或者右键点击“检查”打开审查页面，打开审查页面的网络部分
 3. 点击空间里面的”与我相关“，找到这个请求
 
-![Untitled](%E7%A9%BA%E9%97%B4%E6%81%A2%E5%A4%8D%E8%BD%AF%E4%BB%B6%E8%8D%89%E7%A8%BF%203836b06878e44b3e886f4b6ffce56483/Untitled.png)
+![image](https://user-images.githubusercontent.com/52132083/179441069-751a4270-ae10-4b53-b8bb-84f46ff3c13f.png)
+
+
 
 注意：看一下url链接，需要带有offset参数
 
